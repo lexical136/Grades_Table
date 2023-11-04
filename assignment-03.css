@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+}
+
+#myTable{
+    border: 2px solid black;
+    
+}
+
+th, td{
+    border: 1px solid black;
+    
+}
+
+td{
+    text-align: right;
+}
+
+th{
+    text-align: center;
+}
+
+#r1cellN,#r1cellI,#r2cellN,#r2cellI,#r3cellN,#r3cellI,#r4cellN,#r4cellI,#r5cellN,#r5cellI,#r6cellN,#r6cellI,#r7cellN,#r7cellI,#r8cellN,#r8cellI,#r9cellN,#r9cellI,#r10cellN,#r10cellI{
+    text-align: left;
+}
+
+#r1cell1,#r1cell2,#r1cell3,#r1cell4,#r1cell5{
+    text-align: center;
+}
+
+#r1cellA{
+    background-color:red;
+    color: white;
+}
+
+button{
+    border-radius: 10px;
+    border:2px solid black;
+}
+
+p{
+    display: block;
+    background-color:#e0e0e0;
+    width: 150px;
+    border: 1px solid black;
+}
+
+#dd{
+    padding-top: 10px;
+}
